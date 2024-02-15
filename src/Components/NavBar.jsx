@@ -13,7 +13,7 @@ export default function NavBar() {
 
                     <ul class="flex flex-col  font-medium p-4 md:p-0 mt-4 border  rounded-lg  md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 + bg-zinc-950 border-gray-700">
                         <li>
-                            <button className="bg-yellow-400 hover:bg-amber-300 py-2 px-4 rounded"><Link to="/wireless_website_2024">HOME</Link></button>
+                            <button className="bg-yellow-400 hover:bg-amber-300 py-2 px-4 rounded"><Link to="/wireless_website_2024/">HOME</Link></button>
                         </li>
                         <li>
                             <button className="bg-yellow-400 hover:bg-amber-300 py-2 px-4 rounded"><Link to="/wireless_website_2024/AboutUs">ABOUT US</Link></button>
