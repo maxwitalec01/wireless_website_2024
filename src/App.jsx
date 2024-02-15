@@ -23,10 +23,10 @@ function App() {
     <>
     <NavBar/>
     <Routes>
-      <Route path ="/" element={<Home />} />
-      <Route path ="/AboutUs" element={<AboutUs />} />
-      <Route path ="/FAQPage" element={<FAQPage />} />
-      <Route path ="/Plans" element={<Plans />} />
+      <Route path ="/wireless_website_2024/" element={<Home />} />
+      <Route path ="/wireless_website_2024/AboutUs" element={<AboutUs />} />
+      <Route path ="/wireless_website_2024/FAQPage" element={<FAQPage />} />
+      <Route path ="/wireless_website_2024/Plans" element={<Plans />} />
     </Routes>
     <Footer/>
     
